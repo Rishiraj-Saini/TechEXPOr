@@ -29,11 +29,17 @@ Data Interchange: RESTful JSON APIs with CORS enabled
 Plaintext
 .
 ├── index.html     # Main homepage containing hero charts, job filter, and insights
+
 ├── detail.html    # Detailed page view for individual job roles and learning programs
+
 ├── script.js      # Core frontend logic, API fetches, chart animations, and detail rendering
+
 ├── style.css      # Design system, styling rules, and layout structures
+
 ├── index.java     # Standalone Java backend HTTP server source code
+
 └── index.class    # Compiled Java bytecode
+
 🚀 Getting Started
 1. Run the Backend Server
 Ensure you have Java JDK 8 or higher installed on your system.
